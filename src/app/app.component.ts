@@ -63,6 +63,8 @@ export class AppComponent {
   }
 
   private createSliderGroups(): void {
+
+    
     this.itemMap = new Map();
     let groupIndex: number = 0;
 
